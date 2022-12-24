@@ -3197,8 +3197,8 @@ input, select, textarea {
 
 		}
 
-		body.is-preload #header.alt > * {
-			opacity: 0;
+/* 		body.is-preload #header.alt > * {
+			opacity: 0; */
 		}
 
 		body.is-preload #header.alt .logo {
