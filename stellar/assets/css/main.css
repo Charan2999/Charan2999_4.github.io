@@ -3114,12 +3114,12 @@ input, select, textarea {
 				-webkit-transition-delay: 0s;
 				-ms-transition-delay: 0s;
 				transition-delay: 0s;
-				display: round;
+				display: block;
 				margin: 0 0 1.5em 0;
 			}
 
 				#header.alt .logo img {
-					display:round;
+					display:block;
 					margin: 0 auto;
 					max-width: 75%;
 				}
