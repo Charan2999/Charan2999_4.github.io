@@ -19,6 +19,6 @@ function updateCounter() {
     localStorage.setItem('visiterCount', count);
     localStorage.setItem('visiterLocation', count);
     counter.innerHTML = `Vistor Count: ${localStorage.getItem('visiterCount')
-    list.innerHTML = `Vistor location: ${localStorage.getItem('visiterLocation')}`;
+    counter.innerHTML = `Vistor location: ${localStorage.getItem('visiterLocation')}`;
 }
 updateCounter();
