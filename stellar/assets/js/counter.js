@@ -8,6 +8,7 @@ function updateCounter() {
     */
     if (count == String(null)){
         
+        
             count = 1;
     }
     else{
